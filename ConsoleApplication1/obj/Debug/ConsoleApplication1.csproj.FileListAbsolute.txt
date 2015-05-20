@@ -1,0 +1,10 @@
+D:\DemoProject\LearnAngularJs\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\DemoProject\LearnAngularJs\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\DemoProject\LearnAngularJs\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\DemoProject\LearnAngularJs\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\DemoProject\LearnAngularJs\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\DemoProject\LearnAngularJs\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\DemoProject\LearnAngularJs\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\DemoProject\LearnAngularJs\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\DemoProject\LearnAngularJs\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\DemoProject\LearnAngularJs\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

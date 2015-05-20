@@ -1,0 +1,14 @@
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\MyWebApi.dll.config
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\MyWebApi.dll
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\MyWebApi.pdb
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\Newtonsoft.Json.dll
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\System.Net.Http.Formatting.dll
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\System.Web.Http.dll
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\System.Web.Http.WebHost.dll
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\Newtonsoft.Json.xml
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\System.Net.Http.Formatting.xml
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\System.Web.Http.xml
+D:\DemoProject\LearnAngularJs\MyWebApi\bin\System.Web.Http.WebHost.xml
+D:\DemoProject\LearnAngularJs\MyWebApi\obj\Debug\MyWebApi.csprojResolveAssemblyReference.cache
+D:\DemoProject\LearnAngularJs\MyWebApi\obj\Debug\MyWebApi.dll
+D:\DemoProject\LearnAngularJs\MyWebApi\obj\Debug\MyWebApi.pdb

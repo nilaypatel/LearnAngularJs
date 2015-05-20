@@ -1,0 +1,26 @@
+﻿@model IEnumerable<MvcApplication.Web.Models.Product>
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>Products</h2>
+<div>
+    <div ng-app="store">
+        <div ng-controller="ProductController as productCtrl">
+            <ul class="list-group">
+                <li class="list-group-item" ng-repeat="product in productCtrl.products">
+                    <div>
+                        <b>Product Name </b>
+                        <p class="list-group-item-text">{{ product.name }} </p>
+                    </div>
+                    <div>
+                        <b>Product Description </b>
+                        <p class="list-group-item-text">{{ product.description }} </p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
